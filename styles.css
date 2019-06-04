@@ -1,0 +1,122 @@
+/* This style has been marked as global since internal Portainer URLs vary. */
+
+body .col-xs-12 {
+    color: white !important;
+}
+
+.widget .widget-header,
+body .toolBar {
+    background-color: #263238 !important;
+    color: #b2bfdc !important;
+}
+
+.widget {
+    background-color: #455A64 !important;
+    border-color: #455A64 !important;
+}
+
+.sidebar-header,
+.row.header,
+#sidebar-wrapper,
+.page-wrapper {
+    background-color: #263238 !important;
+}
+
+ul.sidebar .sidebar-list a.active {
+    background: #37474F !important;
+}
+
+ul.sidebar .sidebar-list a:hover {
+    border-left-color: #b2bfdc !important;
+}
+
+#page-wrapper:not(.open) ul.sidebar .sidebar-title.separator,
+.sidebar-footer,
+ul.sidebar .sidebar-list a:hover,
+ul.sidebar .sidebar-main a,
+.panel-body,
+.table-hover > tbody > tr:hover,
+body {
+    background-color: #37474F !important;
+}
+
+.panel-default {
+    border-color: #37474F !important;
+}
+
+.datatable .footer,
+.widget .widget-body table thead {
+    background-color: #546E7A !important;
+}
+
+a {
+    color: #c7c7c7 !important;
+}
+
+.widget .widget-header {
+    border-bottom: 1px solid #b2bfdc;
+}
+
+.table > tbody > tr > td,
+.table > tbody > tr > th,
+.table > tfoot > tr > td,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > thead > tr > th {
+    border-top: 1px solid #b2bfdc;
+}
+
+.template-container--selected,
+.template-container:hover {
+    background-color: #546E7A !important;
+    color: white !important;
+}
+
+body .widget-content,
+.widget .widget-body table thead th .table-filter {
+    color: #efefef !important;
+}
+
+body td .widget-content {
+    color: black !important;
+}
+
+.text-muted {
+    color: #b1b1b1 !important;
+}
+
+.boxselector_wrapper label {
+    background: none !important;
+}
+
+.form-section-title {
+    color: rgb(239, 239, 239) !important;
+}
+
+*,
+:after,
+:before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
+.text-danger {
+    color: #ff6562 !important;
+}
+
+.datatable .footer {
+    color: white !important;
+}
+
+/* Category box */
+.pull-right button,
+input,
+optgroup,
+select,
+textarea {
+    color: black !important;
+}
