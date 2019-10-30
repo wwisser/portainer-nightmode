@@ -66,6 +66,11 @@ a {
     border-top: 1px solid #b2bfdc;
 }
 
+.table > tbody > tr > td {
+    color: #b1b1b1 !important;
+    background-color: #546E7A !important;
+}
+
 .template-container--selected,
 .template-container:hover {
     background-color: #546E7A !important;
